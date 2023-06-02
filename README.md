@@ -1,5 +1,5 @@
 ## React Firebase OTP verification system
-** How to run the project?**<br />
+ How to run the project?<br />
  - Pull the project to your local system using
  - Open the terminal and run `npm i`
  - Go to firebase console and create a new project
